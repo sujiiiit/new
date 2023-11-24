@@ -1,0 +1,130 @@
+{
+  "timetable": {
+    "current": "true",
+    "createdate": "Friday, 1 Dec 2023",
+    "days": {
+      "Monday": {
+        "9:00-10:00": "",
+        "10:00-11:00": "",
+        "11:00-12:00": {
+          "type": "lecture",
+          "code": "CST222",
+          "shortname": "DS",
+          "fullname": "Data Structures",
+          "room": "308",
+          "facultyname": "Prof K Kalambe"
+        },
+        "12:00-1:00": {
+          "type": "lecture",
+          "code": "CST222",
+          "shortname": "DS",
+          "fullname": "Data Structures",
+          "room": "308",
+          "facultyname": "Prof K Kalambe"
+        },
+        "1:00-2:00": {
+          "type": "Recess"
+        },
+        "2:00-3:00": {
+          "type": "lecture",
+          "code": "HUT253",
+          "shortname": "BC",
+          "fullname": "Bussiness Communication",
+          "room": "308",
+          "facultyname": "Prof K Kalambe"
+        },
+        "3:00-4:00": {
+          "type": "lab",
+          "lab1": {
+            "for": "B1-B2",
+            "code": "CSP222",
+            "shortname": "DS",
+            "fullname": "Bussiness Communication",
+            "room": "Lab-2",
+            "facultyname": "Prof K Kalambe"
+          },
+          "lab2": {
+            "for": "B3-B4",
+            "code": "CSP224",
+            "shortname": "PL",
+            "fullname": "Programming Lab",
+            "room": "Lab-1",
+            "facultyname": "Prof K Kalambe"
+          }
+        },
+        "4:00-5:00": {
+          "type": "lab",
+          "lab1": {
+            "for": "B1-B2",
+            "code": "CSP222",
+            "shortname": "DS",
+            "fullname": "Data Structures",
+            "room": "Lab-2",
+            "facultyname": "Prof K Kalambe"
+          },
+          "lab2": {
+            "for": "B3-B4",
+            "code": "CSP224",
+            "shortname": "PL",
+            "fullname": "Programming Lab",
+            "room": "Lab-1",
+            "facultyname": "Prof K Kalambe"
+          }
+        }
+      },
+      "Tuesday": {
+        "9:00-10:00": "",
+        "10:00-11:00": "",
+        "11:00-12:00": {
+          "type": "lecture",
+          "code": "CST222",
+          "shortname": "DS",
+          "fullname": "Data Structures",
+          "room": "308",
+          "facultyname": "Prof K Kalambe"
+        },
+        "12:00-1:00": {
+          "type": "lecture",
+          "code": "HUT253",
+          "shortname": "TOC",
+          "fullname": "Theaory of Computation",
+          "room": "R-002",
+          "facultyname": "Prof S. Tirpude"
+        },
+        "1:00-2:00": {
+          "type": "Recess"
+        },
+        "2:00-3:00": {
+          "type": "lecture",
+          "code": "HUT253",
+          "shortname": "BC",
+          "fullname": "Bussiness Communication",
+          "room": "308",
+          "facultyname": "Prof K Kalambe"
+        },
+        "3:00-4:00": {
+          "type": "lab",
+          "lab1": {
+            "for": "B1-B2",
+            "code": "CSP222",
+            "shortname": "DS",
+            "fullname": "Bussiness Communication",
+            "room": "Lab-2",
+            "facultyname": "Prof K Kalambe"
+          }
+        },
+        "4:00-5:00": {
+          "type": "lab",
+          "lab1": {
+            "for": "B1-B2",
+            "code": "CSP222",
+            "shortname": "DS",
+            "fullname": "Data Structures",
+            "room": "Lab-2",
+            "facultyname": "Prof K Kalambe"
+          }
+        }
+      }
+    }
+  }
+}
